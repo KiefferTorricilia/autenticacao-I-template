@@ -1,4 +1,4 @@
--- Active: 1682512904451@@127.0.0.1@3306
+-- Active: 1686612506292@@127.0.0.1@3306
 CREATE TABLE users (
     id TEXT PRIMARY KEY UNIQUE NOT NULL,
     name TEXT NOT NULL,
@@ -26,3 +26,5 @@ VALUES
 	('p001', 'Mouse', 50),
 	('p002', 'Teclado', 80),
 	('p003', 'Monitor', 700);
+
+
